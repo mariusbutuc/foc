@@ -33,6 +33,7 @@ When investing money, an important concept to know is _compound interest_. The e
  * The _future value (FV)_ of your money is how much money you will have in the future.
  * The _nominal interest rate per period (rate)_ is how much interest you earn during a particular length of time, **before** accounting for compounding. This is  * typically expressed as a percentage.
  * The _number of periods (periods)_ is how many periods in the future this calculation is for.
+
 Finish the following code, run it, and submit the printed number. Provide at least four digits of precision after the decimal point.
 
 ```python
